@@ -1,4 +1,4 @@
 # Pythonista.
-![Python Logo](https://imgur.com/gallery/3GmPd7O)
+![Python Logo](https://i.stack.imgur.com/iPEsF.png)
 ______________________________
 [ᴛʜᴇ ᴇᴍᴘᴇʀᴏʀ]
