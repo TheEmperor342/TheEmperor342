@@ -1,8 +1,3 @@
-# Hi
-
-Pythonista.
-Doing pandas currently
-
-Planning on being a data scientist
+# Pythonista.
 ______________________________
 [ᴛʜᴇ ᴇᴍᴘᴇʀᴏʀ]
