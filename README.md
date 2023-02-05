@@ -1,6 +1,6 @@
 # Hey! Thanks for visiting my profile
 
-I am a 14 year old who loves Programming
+I am a 15 year old who loves Programming
 
 ### Good at 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
