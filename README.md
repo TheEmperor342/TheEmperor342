@@ -17,4 +17,4 @@ I am a 15 year old who loves Programming
 
 ### Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheEmperor342&show_icons=true&locale=en&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=TheEmperor342&show_icons=true&count_private=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=TheEmperor342&show_icons=true&count_private=true">
