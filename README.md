@@ -16,5 +16,5 @@ I am a 15 year old who loves Programming
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheEmperor342&show_icons=true&locale=en&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheEmperor342&show_icons=true&locale=en&layout=compact&exclude_repo=dots">
 <img src="https://github-readme-stats.vercel.app/api?username=TheEmperor342&show_icons=true&count_private=true">
