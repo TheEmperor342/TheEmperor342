@@ -3,18 +3,19 @@
 I am a 15 year old who loves Programming
 
 ### Good at 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-11111b?style=for-the-badge&logo=python&logoColor=94e2d5&labelColor=181825&color=94e2d5)
+![JavaScript](https://img.shields.io/badge/javascript-11111b?style=for-the-badge&logo=javascript&logoColor=f9e2af&labelColor=181825&color=f9e2af)
+![HTML5](https://img.shields.io/badge/html5-11111b?style=for-the-badge&logo=html5&logoColor=fab387&labelColor=181825&color=fab387)
+![CSS3](https://img.shields.io/badge/css3-11111b?style=for-the-badge&logo=css3&logoColor=74c7ec&labelColor=181825&color=74c7ec)
 
 ### Learning
-![JavaScript](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/nodejs-11111b.svg?style=for-the-badge&logo=node.js&logoColor=a6e3a1&labelColor=181825&color=a6e3a1)
 
 ### What I use to Code
-![Arco Linux](https://img.shields.io/badge/ArcoLinuxD-blue?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Arco Linux](https://img.shields.io/badge/Arcolinuxd-11111b.svg?style=for-the-badge&logo=arch-linux&logoColor=89dceb&labelColor=181825&color=89dceb)
+![Neovim](https://img.shields.io/badge/Neovim-11111b.svg?style=for-the-badge&logo=neovim&logoColor=a6e3a1eb&labelColor=181825&color=a6e3a1)
+![Neovim](https://img.shields.io/badge/visual%20studio%20code-11111b.svg?style=for-the-badge&logo=visual-studio-code&logoColor=74c7ec&labelColor=181825&color=74c7ec)
 
 ### Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheEmperor342&show_icons=true&locale=en&layout=compact&exclude_repo=dots">
-<img src="https://github-readme-stats.vercel.app/api?username=TheEmperor342&show_icons=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheEmperor342&locale=en&exclude_repo=dots&title_color=f5e0dc&text_color=cdd6f4&border_color=313244&bg_color=11111b&hide_progress=true">
+<img src="https://github-readme-stats.vercel.app/api?username=TheEmperor342&show_icons=true&count_private=true&title_color=f5e0dc&text_color=cdd6f4&icon_color=74c7ec&bg_color=11111b&border_color=313244">
