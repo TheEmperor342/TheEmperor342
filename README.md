@@ -18,5 +18,5 @@ I am a 15 year old who loves Programming
 ![Neovim](https://img.shields.io/badge/visual%20studio%20code-11111b.svg?style=for-the-badge&logo=visual-studio-code&logoColor=74c7ec&labelColor=181825&color=74c7ec)
 
 ### Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheEmperor342&locale=en&exclude_repo=dots&title_color=f5e0dc&text_color=cdd6f4&border_color=313244&bg_color=11111b&hide_progress=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheEmperor342&locale=en&exclude_repo=dots&title_color=f5e0dc&text_color=cdd6f4&border_color=313244&bg_color=11111b&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=TheEmperor342&show_icons=true&count_private=true&title_color=f5e0dc&text_color=cdd6f4&icon_color=74c7ec&bg_color=11111b&border_color=313244">
