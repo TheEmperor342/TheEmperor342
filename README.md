@@ -10,6 +10,7 @@ I am a 15 year old who loves Programming
 
 ### Learning
 ![NodeJS](https://img.shields.io/badge/nodejs-11111b.svg?style=for-the-badge&logo=node.js&logoColor=a6e3a1&labelColor=181825&color=a6e3a1)
+![TypeScript](https://img.shields.io/badge/typescript-11111b?style=for-the-badge&logo=typescript&logoColor=74c7ec&labelColor=181825&color=74c7ec)
 ![ExpressJS](https://img.shields.io/badge/express-11111b.svg?style=for-the-badge&logo=express&logoColor=cdd6f4&labelColor=181825&color=cdd6f4)
 
 ### What I use to Code
