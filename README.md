@@ -4,11 +4,11 @@ I am a 15 year old who loves Programming
 
 ### Good at 
 ![Python](https://img.shields.io/badge/python-11111b?style=for-the-badge&logo=python&logoColor=94e2d5&labelColor=181825&color=94e2d5)
-![JavaScript](https://img.shields.io/badge/javascript-11111b?style=for-the-badge&logo=javascript&logoColor=f9e2af&labelColor=181825&color=f9e2af)
 ![HTML5](https://img.shields.io/badge/html5-11111b?style=for-the-badge&logo=html5&logoColor=fab387&labelColor=181825&color=fab387)
 ![CSS3](https://img.shields.io/badge/css3-11111b?style=for-the-badge&logo=css3&logoColor=74c7ec&labelColor=181825&color=74c7ec)
 
 ### Learning
+![JavaScript](https://img.shields.io/badge/javascript-11111b?style=for-the-badge&logo=javascript&logoColor=f9e2af&labelColor=181825&color=f9e2af)
 ![NodeJS](https://img.shields.io/badge/nodejs-11111b.svg?style=for-the-badge&logo=node.js&logoColor=a6e3a1&labelColor=181825&color=a6e3a1)
 ![TypeScript](https://img.shields.io/badge/typescript-11111b?style=for-the-badge&logo=typescript&logoColor=74c7ec&labelColor=181825&color=74c7ec)
 ![ExpressJS](https://img.shields.io/badge/express-11111b.svg?style=for-the-badge&logo=express&logoColor=cdd6f4&labelColor=181825&color=cdd6f4)
