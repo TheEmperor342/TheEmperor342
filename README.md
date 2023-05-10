@@ -17,7 +17,6 @@ I am a 15 year old who loves Programming
 ### What I use to Code
 ![Arco Linux](https://img.shields.io/badge/Arcolinuxd-11111b.svg?style=for-the-badge&logo=arch-linux&logoColor=89dceb&labelColor=181825&color=89dceb)
 ![Neovim](https://img.shields.io/badge/Neovim-11111b.svg?style=for-the-badge&logo=neovim&logoColor=a6e3a1eb&labelColor=181825&color=a6e3a1)
-![Neovim](https://img.shields.io/badge/visual%20studio%20code-11111b.svg?style=for-the-badge&logo=visual-studio-code&logoColor=74c7ec&labelColor=181825&color=74c7ec)
 
 ### Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheEmperor342&locale=en&exclude_repo=dots&title_color=f5e0dc&text_color=cdd6f4&border_color=313244&bg_color=11111b&layout=compact">
