@@ -16,7 +16,7 @@ I am a 15 year old who loves Programming
 ![NodeJS](https://img.shields.io/badge/nodejs-11111b.svg?style=for-the-badge&logo=node.js&logoColor=a6e3a1&labelColor=181825&color=a6e3a1)
 
 ### What I use to Code
-![Arco Linux](https://img.shields.io/badge/Arcolinuxd-11111b.svg?style=for-the-badge&logo=arch-linux&logoColor=89dceb&labelColor=181825&color=89dceb)
+![Arch Linux](https://img.shields.io/badge/Arch%20linux-11111b.svg?style=for-the-badge&logo=arch-linux&logoColor=89dceb&labelColor=181825&color=89dceb)
 ![Neovim](https://img.shields.io/badge/Neovim-11111b.svg?style=for-the-badge&logo=neovim&logoColor=a6e3a1eb&labelColor=181825&color=a6e3a1)
 
 ### Stats
